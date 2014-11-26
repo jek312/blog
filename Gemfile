@@ -44,3 +44,5 @@ gem 'devise'
 # для шаблонизатора haml
 gem 'haml-rails'
 
+# авторизацция
+gem 'cancancan'
